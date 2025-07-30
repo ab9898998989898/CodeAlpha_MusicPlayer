@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Better",
+    "artist": "Khalid",
+    "src": "music/Better.mp3",
+    "cover": "https://placehold.co/100x100/00ffe7/222?text=Better"
+  },
+  {
+    "title": "Apt.",
+    "artist": "ROSÉ, Bruno Mars",
+    "src": "music/Apt.mp3",
+    "cover": "https://placehold.co/100x100/1a2980/fff?text=Apt."
+  }
+]
